@@ -18,7 +18,7 @@ This guide will walk you through the initial steps to complete the "Getting Star
 1. Once your machine is ready, open Firefox.
 2. Navigate to the IP Address displayed on the top of your screen (Mine was `10.10.180.116`).
 
-    ![Site Access](image-link-here) *Image: Accessing the IP Address*
+    ![Site Access](ex3.png) *Image: Accessing the IP Address*
 
 ### Step 3: Inspect HTML for Admin Pages
 1. Inspect the HTML code of the site to find any hidden admin pages.
