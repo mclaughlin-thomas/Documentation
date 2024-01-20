@@ -11,7 +11,7 @@ This guide will walk you through the initial steps to complete the "Getting Star
 
   ![Start Machine Button](xe2.png) *Image: Start Machine button*
    
-5. In the popup, select "Attack box" to boot up the VM for the social media site attack. By clicking the green Start Machine button in the drop down menu, we are essentially booting up the VM that hosts the social media site we are going to attack. And by selecting out attack machine, we are booting our VM, which we will use to attack the site hosted on the other VM.
+4. In the popup, select "Attack box" to boot up the VM for the social media site attack. By clicking the green Start Machine button in the drop down menu, we are essentially booting up the VM that hosts the social media site we are going to attack. And by selecting out attack machine, we are booting our VM, which we will use to attack the site hosted on the other VM.
 
 
 ### Step 2: Access the Site
