@@ -28,14 +28,14 @@ This guide will walk you through the initial steps to complete the "Getting Star
 1. In the URL, add the admin page path found earlier.
 2. Your URL should now look like: `http://10.10.180.116/test-admin`.
 
-    ![Admin Page](image-link-here) *Image: Accessing Admin Page*
+    ![Admin Page](ex4.png) *Image: Accessing Admin Page*
 
 ### Step 5: Default Admin Credentials
 1. Attempt to login using common admin credentials.
 2. For instance, the username and password I used to get in was `admin:admin`.
 3. Upon successful login, note down the two flags: admin credentials and the number of users which is shown at the bottom.
 
-    ![Admin Portal](image-link-here) *Image: Admin Portal after login*
+    ![Admin Portal](ex5.png) *Image: Admin Portal after login*
 
 ### Completion
 Finally, proceed to task 3 and submit a dummy answer to complete the room. Your screen should display a completion message.
