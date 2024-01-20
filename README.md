@@ -8,9 +8,11 @@ This guide will walk you through the initial steps to complete the "Getting Star
 1. After logging in, you will see the main screen.
 2. To begin, click on the **Task 1** drop-down menu.
 3. Click the **Start Machine** button in the Task 1 menu.
-4. In the popup, select "Attack box" to boot up the VM for the social media site attack. By clicking the green Start Machine button in the drop down menu, we are essentially booting up the VM that hosts the social media site we are going to attack. And by selecting out attack machine, we are booting our VM, which we will use to attack the site hosted on the other VM.
 
-    ![Start Machine Button](xe2.png) *Image: Start Machine button*
+  ![Start Machine Button](xe2.png) *Image: Start Machine button*
+   
+5. In the popup, select "Attack box" to boot up the VM for the social media site attack. By clicking the green Start Machine button in the drop down menu, we are essentially booting up the VM that hosts the social media site we are going to attack. And by selecting out attack machine, we are booting our VM, which we will use to attack the site hosted on the other VM.
+
 
 ### Step 2: Access the Site
 1. Once your machine is ready, open Firefox.
