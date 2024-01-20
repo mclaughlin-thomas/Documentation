@@ -8,19 +8,19 @@ This guide will walk you through the initial steps to complete the "Getting Star
 1. After logging in, you will see the main screen.
 2. To begin, click on the **Task 1** drop-down menu.
 3. Click the **Start Machine** button in the Task 1 menu.
-4. In the popup, select "Attack box" to boot up the VM for the social media site attack.
+4. In the popup, select "Attack box" to boot up the VM for the social media site attack. By clicking the green Start Machine button in the drop down menu, we are essentially booting up the VM that hosts the social media site we are going to attack. And by selecting out attack machine, we are booting our VM, which we will use to attack the site hosted on the other VM.
 
     ![Start Machine Button](image-link-here) *Image: Start Machine button*
 
 ### Step 2: Access the Site
 1. Once your machine is ready, open Firefox.
-2. Navigate to the IP Address displayed on the top of your screen (e.g., `10.10.180.116`).
+2. Navigate to the IP Address displayed on the top of your screen (Mine was `10.10.180.116`).
 
     ![Site Access](image-link-here) *Image: Accessing the IP Address*
 
 ### Step 3: Inspect HTML for Admin Pages
 1. Inspect the HTML code of the site to find any hidden admin pages.
-2. If found, use the path (e.g., `test-admin`) as your first flag.
+2. If found, use the path 'test-admin' as your FIRST flag.
 
 ### Step 4: Access Admin Page
 1. In the URL, add the admin page path found earlier.
@@ -30,8 +30,8 @@ This guide will walk you through the initial steps to complete the "Getting Star
 
 ### Step 5: Default Admin Credentials
 1. Attempt to login using common admin credentials.
-2. For instance, the username and password `admin:admin` might work.
-3. Upon successful login, note down the two flags: admin credentials and the number of users.
+2. For instance, the username and password I used to get in was `admin:admin`.
+3. Upon successful login, note down the two flags: admin credentials and the number of users which is shown at the bottom.
 
     ![Admin Portal](image-link-here) *Image: Admin Portal after login*
 
